@@ -1,0 +1,8 @@
+{
+  "name": "Crónicas de Eldoria — RPG HD-2D",
+  "description": "Videojuego RPG de mundo abierto con estética HD-2D en Three.js, texturas procedurales, ciclo día/noche, misiones, combate en tiempo real, audio sintetizado y controles táctiles para Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
